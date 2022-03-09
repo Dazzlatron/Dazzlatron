@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Dazzlatron (Real name Daryn) 
+- 👀 I’m interested in music art and technology
+- 🌱 I’m currently learning how to use and implement SASS, NPM & GULP
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me dazgraphic@gmail.com
+
+<!---
+Dazzlatron/Dazzlatron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
